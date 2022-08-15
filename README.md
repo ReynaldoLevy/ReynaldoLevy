@@ -10,6 +10,6 @@ About Me
 - 🤔 I’m looking for help with ... Learning the proper code
 - 💬 Ask me about ... Video Games
 - 📫 How to reach me: ... reylevy428@gmail.com
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: ... he/him 
 - ⚡ Fun fact: ... I like basketball
 -->
